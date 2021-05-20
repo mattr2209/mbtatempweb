@@ -1,0 +1,57 @@
+body {
+    font-family: Inter UI,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+h1 {
+    font-size: 48px;
+}
+p {
+    font-size: 16px;
+}
+#safety {
+    border-top: 1px solid transparent;
+    background-color: #e2ecf9;
+    /* box-shadow: -66vw 0 #e2ecf9, 66vw 0 #e2ecf9, -33vw 0 #e2ecf9, 33vw 0 #e2ecf9;
+    margin-bottom: 3rem;
+    margin-top: 3rem; */
+}
+#vac {
+    color: #fff;
+    background-color: #165c96;
+    border-color: #165c96;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    padding: .6rem 1.6rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+}
+#faq {
+    border-top: 1px solid transparent;
+    background-color: #e2ecf9;
+    /* box-shadow: -66vw 0 #e2ecf9, 66vw 0 #e2ecf9, -33vw 0 #e2ecf9, 33vw 0 #e2ecf9;
+    margin-bottom: 3rem;
+    margin-top: 3rem;*/
+}
+#site {
+    color: #fff;
+    background-color: #165c96;
+    border-color: #165c96;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    padding: .6rem 1.6rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+}
+
+#timetable {
+    color: #fff;
+    background-color: #165c96;
+    border-color: #165c96;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    padding: .6rem 1.6rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+}
